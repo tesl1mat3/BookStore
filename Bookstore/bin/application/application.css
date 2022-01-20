@@ -1,0 +1,15 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.sidebarItem:hover{
+	-fx-background-color: #2A1C42;
+	-fx-border-color: WHITE;
+	-fx-border-width: 0px 0px 0px 3px;
+}
+
+.sidebarItem:pressed{
+	-fx-background-color: #7156DD;
+}
+
+.sidebarItem{
+	-fx-background-color: #3F2B63;
+}
